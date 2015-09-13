@@ -1,8 +1,6 @@
 # JavaScript Testing with Jasmine
 ## Instructions.
-Open the page [Feed reader](http://cochusco.github.io/frontend-nanodegree-feedreader/), you will see the jasmine test results at the bottom of the page.
-
-# Project Overview
+Open the page [Feed reader](http://cochusco.github.io/frontend-nanodegree-feedreader/), you will see the Jasmine test results at the bottom of the page.
 
 # Project Overview
 
